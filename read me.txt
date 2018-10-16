@@ -1,0 +1,7 @@
+To execute the game, you must have an IDLE (CodeBlocks or XCODE) to compile and execute it. 
+
+If you’re on a different IDLE than Xcode, you have to add the c file and the .txt file which is in the folder "Project Folder". You add it in your “project” folder in your IDLE and you're done !
+
+If you’re on Xcode, you can directly go in the folder “Project Folder” and double click on the “Kapture3.xcodeproj”, and run it.
+
+Enjoy the game !
